@@ -52,7 +52,7 @@ Pokedex/
 1. Clona el repositorio:
    ```bash
    git clone git@github.com:GustavoVidalA/PokedexBackend.git
-   cd pokedex-api
+   cd PokedexBackend
    ```
 
 2. Levanta los contenedores con:
